@@ -1,0 +1,51 @@
+Transaction_ID,Date,Category,Amount,Payment_Method,Merchant,Transaction_Type
+T0001,2023-01-01,Bills,376.48,Credit Card,Other,Investment
+T0002,2023-01-02,Groceries,217.41,Cash,Target,Investment
+T0003,2023-01-03,Travel,274.31,Cash,Uber,Income
+T0004,2023-01-04,Dining,937.29,Cash,Uber,Expense
+T0005,2023-01-05,Bills,651.56,Debit Card,Amazon,Expense
+T0006,2023-01-06,Bills,613.04,Cash,Walmart,Expense
+T0007,2023-01-07,Other,179.43,Credit Card,Netflix,Expense
+T0008,2023-01-08,Groceries,731.84,Debit Card,Target,Expense
+T0009,2023-01-09,Entertainment,171.77,Debit Card,Walmart,Expense
+T0010,2023-01-10,Groceries,385.66,Bank Transfer,Walmart,Investment
+T0011,2023-01-11,Dining,989.63,Bank Transfer,Amazon,Expense
+T0012,2023-01-12,Shopping,643.6,Debit Card,Target,Income
+T0013,2023-01-13,Groceries,561.38,Cash,Walmart,Expense
+T0014,2023-01-14,Dining,687.77,Credit Card,Other,Expense
+T0015,2023-01-15,Bills,844.42,Bank Transfer,Other,Investment
+T0016,2023-01-16,Shopping,778.24,Bank Transfer,Amazon,Investment
+T0017,2023-01-17,Dining,236.76,Debit Card,Walmart,Expense
+T0018,2023-01-18,Shopping,41.78,Cash,Target,Income
+T0019,2023-01-19,Savings,322.3,Cash,Walmart,Expense
+T0020,2023-01-20,Groceries,275.06,Credit Card,Amazon,Expense
+T0021,2023-01-21,Savings,218.87,Bank Transfer,Other,Investment
+T0022,2023-01-22,Bills,943.48,Cash,Uber,Expense
+T0023,2023-01-23,Travel,877.6,Bank Transfer,Uber,Expense
+T0024,2023-01-24,Dining,321.53,Cash,PayPal,Income
+T0025,2023-01-25,Other,658.88,Credit Card,PayPal,Expense
+T0026,2023-01-26,Travel,401.68,Debit Card,Walmart,Expense
+T0027,2023-01-27,Groceries,915.4,Credit Card,Amazon,Expense
+T0028,2023-01-28,Groceries,464.26,Bank Transfer,Uber,Income
+T0029,2023-01-29,Savings,272.23,Bank Transfer,Netflix,Expense
+T0030,2023-01-30,Shopping,254.16,Bank Transfer,Uber,Investment
+T0031,2023-01-31,Savings,565.75,Debit Card,PayPal,Expense
+T0032,2023-02-01,Bills,270.11,Credit Card,Target,Expense
+T0033,2023-02-02,Shopping,588.74,Bank Transfer,Other,Expense
+T0034,2023-02-03,Other,898.84,Bank Transfer,Amazon,Expense
+T0035,2023-02-04,Entertainment,405.41,Credit Card,Netflix,Expense
+T0036,2023-02-05,Shopping,227.13,Debit Card,Netflix,Expense
+T0037,2023-02-06,Savings,997.56,Credit Card,Other,Income
+T0038,2023-02-07,Shopping,514.43,Bank Transfer,Walmart,Expense
+T0039,2023-02-08,Savings,100.0,Bank Transfer,Walmart,Expense
+T0040,2023-02-09,Shopping,56.65,Credit Card,Uber,Expense
+T0041,2023-02-10,Bills,118.55,Debit Card,Netflix,Expense
+T0042,2023-02-11,Groceries,631.17,Cash,Walmart,Expense
+T0043,2023-02-12,Dining,794.16,Debit Card,Walmart,Expense
+T0044,2023-02-13,Travel,427.94,Bank Transfer,Other,Investment
+T0045,2023-02-14,Groceries,72.89,Debit Card,Uber,Expense
+T0046,2023-02-15,Dining,387.8,Credit Card,Other,Income
+T0047,2023-02-16,Groceries,996.16,Cash,Uber,Expense
+T0048,2023-02-17,Travel,533.82,Cash,Amazon,Expense
+T0049,2023-02-18,Bills,971.37,Credit Card,Other,Expense
+T0050,2023-02-19,Travel,862.17,Debit Card,PayPal,Expense
